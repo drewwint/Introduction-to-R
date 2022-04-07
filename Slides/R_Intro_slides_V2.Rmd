@@ -1,0 +1,169 @@
+---
+title: "Introduction to R"
+author: "Drew E. Winters, PhD."
+date: "4/12/2022"
+output: 
+  ioslides_presentation:
+    incremental: true
+    widescreen: false
+    logo: C:\Users\wintersd\Pictures\cog load research study\anschutz_circle.jpg
+---
+
+
+# What is R? Why use it? 
+
+## R is a Programing Language 
+
+
+### Functional programing language for statistics and graphics
+
+- Widely used by: 
+
+  > * Researchers
+  > * Statisticians and data scientists
+  > * Teachers 
+
+- Supports object oriented language
+
+- Can handle any data science or statistical project
+
+
+
+## R is used most for statistics {.smaller}
+
+<div class='columns-2'>
+
+<div class='left'>
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R introduction\Images\R-meme.jpg){width=100%,height=100%}
+
+
+</div>
+
+<div class='right'>
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R 
+introduction\Images\percent use R.png){width=120%,height=140%}
+
+source: [rstats](https://r4stats.com/articles/popularity/)
+
+</div>
+
+
+</div>
+
+## Strengths of R
+
+1) Free and open source
+
+     > * Benifits **you**
+       * Benifits **science**
+
+
+2) Access to cutting edge statistical methods 
+
+3) A strong and supportive community 
+
+
+## Strengths of R - Community Support {.smaller}
+
+<div class="centered">
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R introduction\Images\community question and answer percent.png){width=100%,height=110%}
+
+source: [rstats](https://r4stats.com/articles/popularity/)
+
+</div>
+
+
+## Difficulties 
+
+- Learning a new language 
+
+    > * Takes time and experience 
+
+- **However, learning R can help you**: 
+
+    > 1. Develop a generalizable skill   
+      2. Learn statistics more deeply
+
+
+
+# Orienting to R 
+
+## RStudio Windows 
+
+<div class="centered">
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R introduction\Images\rstudio-image_img1.png){width=100%,height=110%}
+
+</div>
+
+## RStudio Windows 
+
+<div class="centered">
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R introduction\Images\rstudio-image_img2.png){width=100%,height=110%}
+
+</div>
+
+## RStudio Windows 
+
+<div class="centered">
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R introduction\Images\rstudio-image_img3.png){width=100%,height=110%}
+
+</div>
+
+
+## RStudio Windows 
+
+<div class="centered">
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R introduction\Images\rstudio-image_img4.png){width=100%,height=110%}
+
+</div>
+
+
+
+# Tutorial of R and Basic Functions
+
+
+
+# Resources for continued learning
+
+## Free Learning Resources
+
+1) Free coding practice
+
+    > * **Software carpentry**: <https://software-carpentry.org/lessons/>
+    > * **Free code camp**: <https://freeCodeCamp.org>
+
+2) Free book 
+
+    > * **R for data science** - <https://r4ds.had.co.nz/>
+
+
+## RCommander 
+
+<div class="columns-2">
+
+![](C:\Users\wintersd\OneDrive - The University of Colorado Denver\Presentations\2022-4-15_R introduction\Images\Rcmdr-screenshot.jpg){width=100%,height=120%}
+
+
+### A point and click interface 
+
+  > * like SPSS or Stata for **FREE**
+  > * Download instructions and documentation: [Link](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
+
+
+</div>
+
+
+
+
+
+
+
+
+
